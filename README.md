@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Monique309
 - 👀 I’m interested in programming, traveling, and playing sports.
 - 🌱 I’m currently learning development with Android
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects developed with Kotlin
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/monique-de-oliveira-8723a3129/
 
 <!---
